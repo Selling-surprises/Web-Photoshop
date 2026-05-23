@@ -2,7 +2,7 @@
   "name": "在线网页版PS",
   "short_name": "网页版PS",
   "description": "功能强大的在线图片编辑工具，支持PSD、XCF、Sketch等格式，可安装为桌面应用。",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "theme_color": "#2c3e50",
   "background_color": "#ffffff",
